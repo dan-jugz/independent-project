@@ -1,0 +1,16 @@
+.basic {
+  font-weight: bolder;
+}
+.line1 {
+  font-style: italic;
+}
+#line2 {
+  font-family: fantasy;
+  color: darkgreen;
+}
+img {
+  float: right;
+  border: 2px solidred;
+  padding: 6px;
+  margin: 10px;
+}
